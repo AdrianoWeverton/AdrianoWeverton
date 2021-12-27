@@ -1,8 +1,5 @@
 ### Olá! Eu sou o Adriano Weverton 🖖
 
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-weverton-lara-701b7b227/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adriano_weverton/)
-
 
 ![Adriano GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrianoWeverton&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoWeverton&layout=compact)](https://github.com/AdrianoWeverton/github-readme-stats)
